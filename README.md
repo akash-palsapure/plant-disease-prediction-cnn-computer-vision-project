@@ -28,7 +28,7 @@ This is the complete workflow of the project:
 - Contains thousands of images of plant leaves  
 - Includes both **healthy and diseased classes**
 
-👉 Data collection is the first and most important step in CNN projects :contentReference[oaicite:0]{index=0}
+👉 Data collection is the first and most important step in CNN projects -
 ---
 
 ### 2️⃣ Data Preprocessing
@@ -93,7 +93,9 @@ plant-disease-prediction/
 
 ## 🚀 How to Run the Project
 
+
 #1️⃣ Clone Repository
+
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
