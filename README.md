@@ -109,7 +109,7 @@ python app.py
 OR (if using Streamlit)
 streamlit run app.py
 
-##### How to Test Your Model
+##### How to Test Your Model-
 Go to test_images/ folder
 Add your leaf images
 Run the model
@@ -121,17 +121,18 @@ Contains:
 50,000+ images
 Multiple plant disease classes
 
-✨ Features
+✨ Features-
 Predict plant diseases from images
 Easy-to-use structure
 Can be extended to real-time prediction
 Works with custom datasets
 
-⚠️ Limitations
+⚠️ Limitations-
 Accuracy depends on dataset quality
 May not perform well on unseen plant types
 Requires good preprocessing
-🔮 Future Improvements
+
+🔮 Future Improvements-
 Add real-time camera detection
 Improve accuracy with advanced models (ResNet, EfficientNet)
 Deploy on mobile/web apps
