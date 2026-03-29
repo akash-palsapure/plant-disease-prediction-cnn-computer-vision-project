@@ -96,3 +96,39 @@ plant-disease-prediction/
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+
+3️⃣ Run Model / App
+python app.py
+
+OR (if using Streamlit)
+streamlit run app.py
+
+##### How to Test Your Model
+Go to test_images/ folder
+Add your leaf images
+Run the model
+Get prediction output
+
+📊 Dataset
+Source: Kaggle - PlantVillage Dataset
+Contains:
+50,000+ images
+Multiple plant disease classes
+
+✨ Features
+Predict plant diseases from images
+Easy-to-use structure
+Can be extended to real-time prediction
+Works with custom datasets
+
+⚠️ Limitations
+Accuracy depends on dataset quality
+May not perform well on unseen plant types
+Requires good preprocessing
+🔮 Future Improvements
+Add real-time camera detection
+Improve accuracy with advanced models (ResNet, EfficientNet)
+Deploy on mobile/web apps
