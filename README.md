@@ -78,12 +78,17 @@ This is the complete workflow of the project:
 
 ## 📂 Project Structure
 plant-disease-prediction/
-│
+
 ├── app/ # Web app (if using Streamlit/Flask)
+
 ├── model_training_notebook/ # Jupyter notebooks for training
+
 ├── test_images/ # Folder for testing images
+
 ├── model/ # Saved trained model
+
 ├── requirements.txt # Dependencies
+
 └── README.md
 
 ## 🚀 How to Run the Project
