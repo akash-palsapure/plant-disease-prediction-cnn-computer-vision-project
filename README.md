@@ -91,11 +91,9 @@ plant-disease-prediction/
 
 └── README.md
 
-## 🚀 How to Run the Project
-
+## 🚀 How to Run the Project-
 
 #1️⃣ Clone Repository
-
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
