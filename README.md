@@ -28,7 +28,7 @@ This is the complete workflow of the project:
 - Contains thousands of images of plant leaves  
 - Includes both **healthy and diseased classes**
 
-👉 Data collection is the first and most important step in CNN projects -
+👉 Data Collection is one and the formost step in CNN Projects.
 ---
 
 ### 2️⃣ Data Preprocessing
